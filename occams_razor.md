@@ -235,3 +235,5 @@ plt.show()
 - This demonstrates **Occam's Razor**: Among models with similar explanatory power, prefer the simpler one
 
 > **Less is often more in machine learning.**
+---
+[![Main Repo](https://img.shields.io/badge/Main_Repo-000000?style=flat&logo=github&logoColor=white)](README.md)
